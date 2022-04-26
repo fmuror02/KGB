@@ -4,4 +4,4 @@
 INSTRUCTIONS OF DEPLOYMENT:
 1. Download it.
 2. Unzip it.
-3. Use it well XD
+3. Use it well.
